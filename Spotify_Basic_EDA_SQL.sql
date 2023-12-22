@@ -162,8 +162,3 @@ artist_name,
 duration_min
 FROM spotify_streaming_history
 ORDER by duration_min DESC
-
-
-
-
-
